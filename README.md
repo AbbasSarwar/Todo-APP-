@@ -34,7 +34,7 @@
 
 # 📖 [To-Do-APP] <a name="about-project"></a>
 
-**[To-Do-APP]** In this project user can add,edit and delete tasks and tasks are stored in the browser.(Note: Local storage is in proccess)
+**[To-Do-APP]** In this project user can add,edit and delete tasks and tasks are stored in the browser.(Note: UI in proccess)
 
 ## 🛠 Built With <a name="HTML, CSS, Javascript and React"></a>
 
@@ -57,6 +57,7 @@
 - **[Simple Todo APP]**
 - **[Adding new Items]**
 - **[Components base]**
+- **[Update to Local Storage]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +157,6 @@ To check for js errors run:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **[Local Storage saving items]**
 - **[Testing components]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

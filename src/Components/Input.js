@@ -28,7 +28,6 @@ const InputTodo = ({ Additem }) => {
           onChange={handleChange}
           className="input-text"
         />
-        <button type="button">Submit</button>
       </form>
       <span>
         message:
